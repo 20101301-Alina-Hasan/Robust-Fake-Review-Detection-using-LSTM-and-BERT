@@ -5,10 +5,10 @@ Public link to the slide:
 https://docs.google.com/presentation/d/1uaH3BT2W1xtYdvRmJs7QYz83fOgwQ15TL7PmVQrGrpI/edit#slide=id.p 
 
 Paper title:
-...
+Online Fake Review Detection using Supervised Machine Learning and BERT Model
 
 Link to the paper:
-https://ieeexplore......
+https://paperswithcode.com/paper/online-fake-review-detection-using-supervised 
 
 Group Number:
 11
