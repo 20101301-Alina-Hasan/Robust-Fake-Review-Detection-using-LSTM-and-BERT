@@ -8,7 +8,7 @@ Paper title:
 Online Fake Review Detection using Supervised Machine Learning and BERT Model
 
 Link to the paper:
-https://paperswithcode.com/paper/online-fake-review-detection-using-supervised 
+https://arxiv.org/ftp/arxiv/papers/2301/2301.03225.pdf 
 
 Group Number:
 11
