@@ -11,7 +11,7 @@ Paper title:
 Robust Fake Review Detection using Uncertainty-Aware LSTM and BERT
 
 Paper presentation (anyone can view without login):
-Submission 4/Draft 1.pdf
+https://github.com/20101301-Alina-Hasan/CSE431/blob/main/Submission%204/Draft%201.pdf 
 
 Paper submission date (to workshop/conference):
 ...
